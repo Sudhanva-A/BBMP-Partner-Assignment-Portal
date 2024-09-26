@@ -1,0 +1,1 @@
+SELECT * FROM partner_details.partner;
