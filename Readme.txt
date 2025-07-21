@@ -1,4 +1,4 @@
-A website built to support the Bruhat Bengaluru Mahanagara Palike (BBMP) in organizing waste collection services across 10 Bangalore zones. The portal allows citizens to check availability of local waste collection partners and view schedules for doorstep garbage pickup.
+A website built to support the Bruhat Bengaluru Mahanagara Palike (BBMP) in organizing waste collection services across different Bangalore zones. The portal allows citizens to check availability of local waste collection partners and view schedules for doorstep garbage pickup.
 
 ---Features
 Area-wise partner listing
